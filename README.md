@@ -1,3 +1,3 @@
-# [ibraheemrodrigues.com](https://ibraheemrodrigues/com)
+# [ibraheemrodrigues.com](https://ibraheemrodrigues.com)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibraheemr)](https://github.com/ryo-ma/github-profile-trophy)
