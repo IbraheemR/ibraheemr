@@ -23,8 +23,7 @@ The human brain is 100ms behind reality. See whats happening in the NOW.
 Some interesting tables, charts and information I've collected. Mostly an excersize in working with Jekyll templates
 
 
-
-## [Catchment Area Checker](https://catchment.cheviot.tech/)
+## [Catchment Area Checker](https://kind-kirch-1ceddd.netlify.app/)
 A widget to check practice catchment areas, made for Cheviot Ltd.
   
 ## [OneShot](https://oneshot.ibraheemrodrigues.repl.co)
